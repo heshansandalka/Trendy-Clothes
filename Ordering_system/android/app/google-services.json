@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952821081270",
+    "project_id": "trendy-clothes-137b7",
+    "storage_bucket": "trendy-clothes-137b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952821081270:android:2e4f34711cd150d5eb3217",
+        "android_client_info": {
+          "package_name": "com.example.orderingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxVt91Ohyt_nS15PRpT_PAKhUlS1BzEic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
